@@ -1,0 +1,27 @@
+
+.hero{
+    width: 900px;
+    height: 400px;
+    background-color: burlywood;
+    text-align: center;
+    margin:  auto;
+}
+.logo{width: 100px;
+    height: 50px;
+    background-color: cyan;
+    margin: auto;
+    
+   
+
+    
+}
+strong{
+    color: darkblue;
+}
+li{
+    background-color: red;
+    width: 80px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+}

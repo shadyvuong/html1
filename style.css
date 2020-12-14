@@ -1,0 +1,52 @@
+*{
+    padding:0 ;
+    margin: 0;
+    font-family: "roboto",sans-serif;
+
+}
+.hero{
+    background-image: url(./imade/hương2.jpg);
+    
+    height: 900px;
+    margin: auto;}
+.ogiua{
+    width: 55%;
+    height: 40%;
+   background-color: rgba(0, 0, 0, 0.6);
+   position: relative;
+   top: 250px;
+   left: 22%;}
+   .khoi1{
+       text-align: center;
+       color: white;
+}
+.khoi2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 80%;
+    height: 30px;
+}
+button{
+    color: skyblue;
+    height: 34px;
+    width: 5%;
+}
+.o{
+    display: flex;
+    justify-content: center;
+
+    
+    color:yellow;
+}
+.vung{
+    height:40px;
+    width: 50px;
+    color:red;
+    
+}
+   
+   
