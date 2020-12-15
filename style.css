@@ -43,9 +43,8 @@ button{
     color:yellow;
 }
 .vung{
-    height:40px;
-    width: 50px;
-    color:red;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
     
 }
    
